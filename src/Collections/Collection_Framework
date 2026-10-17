@@ -1,0 +1,47 @@
+Collection Framework is a collection of classes and interface which have ability to work
+on data which store more than single value in our java objects every instance is created to store
+more single value we have three major interface for every Collections in Java class.
+
+Generic Datatypes(every datatype will store it's class data)
+1)int ->Integer
+2)float ->Float
+3)String->String
+4)boolean->Boolean
+
+Note:All this collections are stored in java.util.*;
+
+1)List:It is mutable(means we can add ,update ,delete ,sort ,index ) collection of data.list enclosed in square
+bracket [].List interface have two major class to perform ArrayList,LinkedList
+
+1)ArrayList is used to store data normally like a array in java which hold index from 0 to n-1,
+syntax:
+
+ArrayList <Datatype> object=new ArrayList<>();
+
+
+1)LinkedList It store data in node form where each connected with it's adjacent node in array so
+we can easily find distance or difference between two nodes in LinkedList
+syntax:
+
+LinkedList <Datatype> object=new LinkedList<>();
+
+
+Note:list is used to store different data in different location and it also allow duplicate entries.
+
+2)Set:It is used to store data with unique values means if one set already have that value it not allow
+duplicate entry.It enclosed data in curly bracket.Set is unordered collection.
+
+
+Types of Set interface class:
+1)HashSet:It is used to store particular data is hash format so Every element will appear only once in
+given pair.
+syntax:
+    HashSet<Datatype>object=new HashSet<>();
+
+
+3)Map:It is used to store data in key-value pair in Map.means In this we call data using it's key
+not index.It enclosed in curly bracket {key:value}
+syntax:
+HashMap<Datatype,Datatype>object=new HashMap<>();
+
+
