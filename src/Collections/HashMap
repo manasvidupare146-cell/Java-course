@@ -1,0 +1,4 @@
+HashMap is used to store data in key-value so user can access data with the
+help of key instead of indexing like List Interface.
+syntax:
+HashMap <Datatype,Datatype> object =new HashMap<>();
