@@ -1,0 +1,27 @@
+OOPS(Object Oriented Programming Lanaguage) Concept:
+
+Java is already a object-oriented programming language so to handle full
+features of it is very easy in java
+
+
+In java memory management is handle by using it's interpreter so pointer doesn't require
+in java and second case java used Automatic garbage collection and heap memory allocation
+so till when object members not get utilize it will not store or call it's memory means
+java application can be light -weight because it consume less memory as compare to other
+software.
+
+OOPS concepts
+1)class:It is a template or blueprint of given data which is a logical entity hold
+data members and it's behaviour(functionality).
+
+
+2)object:It is an instance of class which call information of given class members and
+implement different data for different object for a single class we can create as
+many as possible objects for a  single class.
+
+
+3)Encapsulation
+4)Inheritance
+5)Polymorphism
+6)Abstraction
+
