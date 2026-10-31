@@ -1,0 +1,5 @@
+Encapsulation:It is used to hide internal sensitive information of class by binding data into single unit
+In java we use private access specifier to hide internal sensitive data of class members
+
+But we know private members is not accessible outside a class so we have to use public getter and setter.
+
