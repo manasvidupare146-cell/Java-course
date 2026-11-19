@@ -1,0 +1,13 @@
+Inheritance :It is used to inherit data of parent class into child with proper
+data reusability of code.
+
+In java to inherit data of class into another class we use extends keyword.
+But to inherit interface we use implements keyword.
+
+Types of Inheritance :
+1)Single
+2)Multilevel
+3)Hierarchical
+
+Note:Multiple and Hybrid are use Data Abstraction with the help of interface.
+
