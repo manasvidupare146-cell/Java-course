@@ -1,0 +1,9 @@
+Polymorpshim is used to perform more than single task from given class or method.
+Types of Polymorphism:
+1)method overloading:When we use same method in different classes with different parameter is called
+method overloading
+
+
+2)method overriding:When we use same method in different classes without using different parameter is
+called method overriding.
+
