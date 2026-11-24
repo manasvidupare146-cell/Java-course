@@ -1,3 +1,20 @@
 Abstraction is used to hide internal functionality of code using
 abstract class and interface in java which also support Multiple inheritance.
 
+abstract class :In java to create abstract class we use abstract keyword and each
+abstract class have atleast one abstract method.
+
+In this we hide internal functionality of class and define it's implementation in another class
+70 to 80%
+
+interface :In java interface keyword is used to hide internal functionality which also support
+multiple inheritance.It is a  mechanism which 100% data will get abstract.
+
+class ->inherit->extends
+interface->inherit->implements
+
+
+
+
+
+
